@@ -1,0 +1,13 @@
+{
+    "user"                : "circuit.email@circuit.email.com",
+    "password"            : "circuit.password",
+    "domain"              : "circuitsandbox.net",
+    "inspectInterval"     : "3600000",
+    "minLogonInterval"    : "120000",
+    "apiLogLevel"         : "error",
+    "conversation"        : "12345678-1a2b-3c4d-5e6f-1234567890ab",
+    "consumer_key"        : "consumer_key",
+    "consumer_secret"     : "consumer_secret",
+    "access_token"        : "access_token",
+    "access_token_secret" : "access_token_secret" 
+}
